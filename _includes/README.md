@@ -1,0 +1,1 @@
+* для одностраничного multilanguage сайта использовать layout.njk

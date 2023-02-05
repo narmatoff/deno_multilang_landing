@@ -1,0 +1,6 @@
+# This page is in 2 different languages: English and Russian.
+lang: [en, ru]
+title: About me # The default title
+title.en: About me # The default title
+title.ru: Обо мне # The title in galician
+layout: layout.njk
